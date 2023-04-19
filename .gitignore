@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Data files
+data/
+
+# Virtual environment
+venv/
+*.venv
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# Other files
+*.log
+*.bak
+*.swp
+*.swo
